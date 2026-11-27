@@ -6,6 +6,15 @@
     <description>Updates of Wilco Host, the Mac side of Wilco.</description>
     <language>en</language>
     <item>
+      <title>Version 1.0.5</title>
+      <pubDate>Fri, 27 Nov 2026 12:59:58 +0000</pubDate>
+      <sparkle:version>202611271257</sparkle:version>
+      <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <sparkle:releaseNotesLink>https://github.com/MatrixReligio/wilco-releases/releases/tag/v1.0.5</sparkle:releaseNotesLink>
+      <enclosure url="https://github.com/MatrixReligio/wilco-releases/releases/download/v1.0.5/Wilco-Host-1.0.5.dmg" length="7634899" type="application/octet-stream" sparkle:edSignature="XynimpTTV06Gn3KMU5mmhRMI0CSgQvR09cJKA7pEs9o7mNIv8YDnJ4GqeNWOy0M0AuaVJfUpl3BNSD/FHFs1Ag=="/>
+    </item>
+    <item>
       <title>Version 1.0.4</title>
       <pubDate>Fri, 27 Nov 2026 07:38:31 +0000</pubDate>
       <sparkle:version>202611270729</sparkle:version>
